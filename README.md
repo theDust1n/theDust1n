@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm theDust1n
+I'm theDust1n <br />
 I love ethical hacking, system programming, web development and game developer
 <!--
 **theDust1n/theDust1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -8,7 +8,7 @@ I love ethical hacking, system programming, web development and game developer
 
 - 🌱 I’m currently studing Go, Java and Lexical Analysis
 - 👨‍💻 Developer at Braceinf Studio™<br />
-- I'm also a back/front end web developer
+- I'm also a back/front end web developer<br />
 ![](https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png) <br /> 
 ![](https://miro.medium.com/max/920/1*CdjOgfolLt_GNJYBzI-1QQ.jpeg) <br /> 
 
