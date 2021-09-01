@@ -7,7 +7,7 @@ I love ethical hacking, system programming, web development and game developer
 <!--    - 🔭 I’m currently working on     -->
 
 - 🌱 I’m currently studing Java and Lexical Analysis
-- 👨‍💻 Developer at Braceinf Studio™<br />
+
 - I'm also a back/front end web developer<br />
 ![](https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png) <br /> 
 ![](https://miro.medium.com/max/920/1*CdjOgfolLt_GNJYBzI-1QQ.jpeg) <br /> 
