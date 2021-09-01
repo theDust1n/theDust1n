@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm theDust1n <br />
-I love ethical hacking, system programming, web development and game developer
+I love ethical hacking, system programming, web development and game development
 <!--
 **theDust1n/theDust1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
